@@ -102,11 +102,13 @@ int main(void)
 
 ### BUTTON ON LED ON CONDITION:
 
+![pm 32](https://user-images.githubusercontent.com/94619247/234249541-4d3785f4-38dd-455b-a371-dc52be1da54e.jpg)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- 
+ ![pm 33](https://user-images.githubusercontent.com/94619247/234249613-31eae982-9891-49b6-99b9-abf3807b89ee.jpg)
+
  
  
 ## Result :
